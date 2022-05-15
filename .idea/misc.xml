@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable-v24/button_shape3.xml" value="0.115" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/button_shape.xml" value="0.12" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/button_shape2.xml" value="0.115" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/button_shape4.xml" value="0.1185" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_attendance_recap.xml" value="0.1405" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_back.xml" value="0.1185" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_bg_topheader.xml" value="0.1405" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_cancel.xml" value="0.1185" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_close_delete_remove_svgrepo_com.xml" value="0.16" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_course_plan.xml" value="0.176" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_course_schedule.xml" value="0.176" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_download_file.xml" value="0.16" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_file.xml" value="0.16" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_gmail_svgrepo_com.xml" value="0.157" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_image_circle.xml" value="0.1185" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_log_out.xml" value="0.176" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_management.xml" value="0.115" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_person_circle.xml" value="0.157" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_person_or_personal.xml" value="0.157" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_phone_svgrepo_com.xml" value="0.157" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_profile1.xml" value="0.1405" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_settings.xml" value="0.176" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_teacher.xml" value="0.176" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_update.xml" value="0.144" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_user_add.xml" value="0.115" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/ic_write_text.xml" value="0.16" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/rounded.xml" value="0.144" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/drawable/rounded_etud.xml" value="0.144" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/_etud.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_add_book.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_add_planning.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_add_prof.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_book_list.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_choose_user.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_delete_profile.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_etud_profile.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_gestion_etud.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_gestion_prof.xml" value="0.67" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_gestion_profs.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_home_admin.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_home_etud.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_home_prof.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_list_prof.xml" value="0.22" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_list_prof_admin.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_login_adm.xml" value="0.18704710144927536" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_login_admin.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_login_etud.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_login_prof.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_planning_admin.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_planning_list.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_prof_profile.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_recycler.xml" value="0.18704710144927536" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_recycler_etud_adm.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_recycler_etud_prof.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_recycler_prof_etud.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_register_etud.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_update_profile_etud.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_upload_pdf.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_upload_profile_etud.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/activity_view_planning.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/main_adm_item.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/main_etud_item.xml" value="0.33" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/main_item.xml" value="0.43423137876386686" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/main_item_bib.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/main_item_plan.xml" value="0.40058479532163743" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/main_prof_item.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/update_popup.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/update_popup_etud.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/update_popup_etud_prof.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/update_popup_prof.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/layout/update_popup_prof_etud.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/menu/etud_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/menu/prof_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/menu/profile_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Cluster/app/src/main/res/menu/search.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

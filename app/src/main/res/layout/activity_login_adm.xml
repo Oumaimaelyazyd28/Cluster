@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginAdmActivity"
+    android:background="@drawable/backgr5">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+
+
+        <TextView
+            android:id="@+id/tv_log_adm_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bienvenue !"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/poppinssemibold"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:layout_marginTop="100dp"
+            />
+
+        <ImageView
+            android:id="@+id/img_log_adm_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_log_adm_1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/gambar3" />
+
+        <LinearLayout
+            android:id="@+id/ly_log_adm_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_below="@id/img_log_adm_2"
+            android:padding="30dp">
+
+            <EditText
+                android:id="@+id/ed_log_adm_email"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:background="@drawable/button_shape"
+                android:hint="Entrez votre adresse e-mail"
+                android:textSize="18sp"
+                android:paddingLeft="10dp"
+                android:backgroundTint="@color/white"
+                android:fontFamily="@font/poppinsregular"
+                android:inputType="textEmailAddress"
+                />
+
+            <EditText
+                android:id="@+id/ed_log_adm_passe"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:background="@drawable/button_shape"
+                android:layout_marginTop="10dp"
+                android:hint="Entrez votre mot de passe"
+                android:textSize="18sp"
+                android:paddingLeft="10dp"
+                android:backgroundTint="@color/white"
+                android:fontFamily="@font/poppinsregular"
+                android:inputType="textPassword"
+                />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_log_adm_forgot_passe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ly_log_adm_1"
+            android:layout_centerHorizontal="true"
+            android:text="Mot de passe oublié ?"
+            android:textColor="@color/secondaryColor" />
+
+        <Button
+            android:id="@+id/btn_log_adm_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_log_adm_forgot_passe"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:width="300dp"
+            android:background="@drawable/button_shape"
+            android:text="Se Connecter"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@id/btn_log_adm_login"
+            android:gravity="center"
+            android:layout_marginTop="30dp"
+            android:padding="30dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Vous n'avez pas un compte ?"
+                android:fontFamily="@font/poppinsregular"
+                android:textSize="12sp"
+                />
+
+            <TextView
+                android:id="@+id/tv_log_adm_inscrire"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="S'inscrire"
+                android:fontFamily="@font/poppinssemibold"
+                android:textSize="12sp"
+                android:textColor="@color/secondaryColor"
+                />
+
+        </LinearLayout>
+
+        <ProgressBar
+            android:id="@+id/progressbar_log_adm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:elevation="10dp"
+            android:visibility="gone"
+            />
+
+    </RelativeLayout>
+
+
+</ScrollView>

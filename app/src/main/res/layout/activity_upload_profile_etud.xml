@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UploadProfileEtudActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:layout_margin="15dp"
+        android:background="@color/backgroud">
+
+        <TextView
+            android:id="@+id/tv_upload_img_head"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Téléchargez votre photo de profile"
+            android:textAlignment="center"
+            android:fontFamily="@font/poppinsbold"
+            android:textSize="18sp"/>
+
+        <Button
+            android:id="@+id/btn_upload_choose_pic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_upload_img_head"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="70dp"
+            android:background="@drawable/button_shape2"
+            android:text="Choisir"
+            android:textColor="@color/white" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/iv_display_pic"
+            android:layout_width="400dp"
+            android:layout_height="400dp"
+            android:layout_below="@id/btn_upload_choose_pic"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            app:civ_border_color="#FF000000"
+            app:civ_border_width="2dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_upload_pic"
+            android:layout_below="@id/iv_display_pic"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="70dp"
+            android:background="@drawable/button_shape2"
+            android:textColor="@color/white"
+            android:text="Términer"
+            />
+
+        <ProgressBar
+            android:id="@+id/progressbar_upload"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:elevation="10dp"
+            android:visibility="gone"
+            />
+
+
+    </RelativeLayout>
+
+</ScrollView>

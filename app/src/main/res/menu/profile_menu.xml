@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Item"
+        android:id="@+id/menu_refresh"
+        android:icon="@drawable/ic_refresh_white"
+        android:alphabeticShortcut="r"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"
+        />
+
+    <item android:title="Acceuil"
+        android:id="@+id/menu_acceuil"
+        />
+
+    <item android:title="Modifier le compte"
+        android:id="@+id/menu_update_profile"
+        />
+
+    <item android:title="Modifier l'email"
+        android:id="@+id/menu_update_email"
+        />
+
+    <item android:title="Paramétres"
+        android:id="@+id/menu_settings"
+        />
+
+    <item android:title="Changer le mot de passe"
+        android:id="@+id/menu_change_password"
+        />
+
+    <item android:title="Supprimer le compte"
+        android:id="@+id/menu_delete_profile"
+        />
+
+    <item android:title="Déconnexion"
+        android:id="@+id/menu_logout"
+        />
+</menu>

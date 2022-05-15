@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282115129057",
+    "project_id": "cluster-b5176",
+    "storage_bucket": "cluster-b5176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282115129057:android:32d3f1fe5c88f5208fc1a0",
+        "android_client_info": {
+          "package_name": "com.example.cluster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282115129057-fsq70qtickf0901bbvu79mie5mmljppj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnQlEFHVuEw00ePJM265oPlN4H7qNEU0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282115129057-fsq70qtickf0901bbvu79mie5mmljppj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
